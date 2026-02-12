@@ -13,6 +13,14 @@
 
 *Provide background/motivation for your project*
 
+What effect does noise level have on the star rating of a restaurant and how does the price range of the restaurant moderate this relationship?
+
+options for clusters:
+
+Delivery/takeout –> delivery, takeout, DriveThru, cater yes/no
+
+Dine in experience –> reservations, goodforgroups, alcohol, happyhour, outdoorseating, goodforkids, RestaurantTableService
+
 **Mention your research question**
 
 ## Data
