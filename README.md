@@ -13,7 +13,7 @@
 
 *Provide background/motivation for your project*
 
-What effect does noise level have on the star rating of a restaurant and how does the price range of the restaurant moderate this relationship?
+What effects do deliviry options and dine in experience have on the star rating of a restaurant and how does the price range of the restaurant moderate this relationship?
 
 options for clusters:
 
