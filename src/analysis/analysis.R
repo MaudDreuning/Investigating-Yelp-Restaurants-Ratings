@@ -26,4 +26,3 @@ ggplot(dataset_restaurants, aes(x = price_range)) +
   ) +
   theme_minimal()
 
-#
