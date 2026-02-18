@@ -4,9 +4,9 @@
 \>\
 \> Feel free to delete this text.
 
-# Title of your Project
+# Impact of 'delivery options' and 'dine-in options' on Yelp restaurant ratings
 
-*Describe the purpose of this project*
+This project uses an automated front to end workflow to gain insights into the effects of 'delivery options' and 'dine-in options' on Yelp restaurant ratings, moderated by price levels. Using multi linear regression this project aims to identify patterns between certain restaurant attributes and clusters of attributes on the overall rating. This way we hope to gain insights into what attributes might matter most to these businesses.
 
 ## Motivation
 
