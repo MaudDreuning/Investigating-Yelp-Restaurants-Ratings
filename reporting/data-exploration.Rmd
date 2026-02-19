@@ -1,5 +1,5 @@
 ---
-title: "data-exploration"
+title: "Data-exploration"
 output: html_document
 ---
 
